@@ -17,3 +17,4 @@ CREATE TABLE tblStudents (
     student_email VARCHAR(50),
     student_phone VARCHAR(50)
 );
+

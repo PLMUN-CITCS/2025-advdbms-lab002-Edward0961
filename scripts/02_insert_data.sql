@@ -21,5 +21,5 @@ CREATE TABLE tblStudents (
 -- Inserting data into tblStudents
 INSERT INTO tblStudents (student_name, student_email, student_phone)
 VALUES
-    ('John Doe', 'Edward0961@gmail.com', '123-456-7890'),
-    ('Jane Doe', 'Edward0961@gmail.com', '123-456-7890');
+    ('Edward0961', 'Edward0961@gmail.com', '123-456-7890'),
+    ('Edward0961', 'Edward0961@gmail.com', '123-456-7890');
