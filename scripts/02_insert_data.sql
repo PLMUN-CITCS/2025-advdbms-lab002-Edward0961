@@ -17,7 +17,6 @@ CREATE TABLE tblStudents (
     student_email VARCHAR(50),
     student_phone VARCHAR(50)
 );
-
 -- Creating tblStudents table
 -- Inserting data into tblStudents
 INSERT INTO tblStudents (student_name, student_email, student_phone)
